@@ -2,3 +2,9 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="EL: AMC" tvg-logo="" group-title="LATINO/SPANISH",EL: AMC
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35892
+
+#EXTINF:-1 tvg-id="" tvg-name="EL: ANIMAL PLANET" tvg-logo="" group-title="LATINO/SPANISH",EL: ANIMAL PLANET
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35893
+
+#EXTINF:-1 tvg-id="Relax.cz" tvg-name="EL: AXN" tvg-logo="" group-title="LATINO/SPANISH",EL: AXN
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35894
