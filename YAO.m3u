@@ -1,13 +1,17 @@
 #EXTM3U
 
-CANAL AMC
-#EXTINF:-1 tvg-id="" tvg-name="EL: AMC" tvg-logo="" group-title="TV",EL: AMC
+CANALES TV
+
+AMC
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/amc-logo.png" group-title="TV",AMC
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35892
 
-#EXTINF:-1 tvg-id="" tvg-name="EL: ANIMAL PLANET" tvg-logo="" group-title="TV",EL: ANIMAL PLANET
+ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="TV",ANIMAL PLANET
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35893
 
-#EXTINF:-1 tvg-id="Relax.cz" tvg-name="EL: AXN" tvg-logo="" group-title="TV",EL: AXN
+AXN
+#EXTINF:-1 tvg-id="Relax.cz" tvg-name="AXN" tvg-logo="" group-title="TV",AXN
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35894
 
 HBO PLUS
