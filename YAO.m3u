@@ -9,3 +9,7 @@ http://31.14.41.118:8080/blacktop/k7S96HKftq/35893
 
 #EXTINF:-1 tvg-id="Relax.cz" tvg-name="EL: AXN" tvg-logo="" group-title="TV",EL: AXN
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35894
+
+HBO PLUS
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="https://d1oq4398v5395a.cloudfront.net/LOGOS/canales/1532.png" group-title="PELICULAS",HBO PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/38128
