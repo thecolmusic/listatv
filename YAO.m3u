@@ -1,19 +1,470 @@
 #EXTM3U
 
-CANALES TV
+--------------TV --------------------
 
-AMC
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/black-amc-networks-png-logo-17.png" group-title="TV",AMC
+#EXTINF:-1,  CARACOL
+http://185.134.22.150:8080/jokertv/streaming@2021/38246
+
+#EXTINF:-1,  CARACOL INT
+http://185.134.22.150:8080/jokertv/streaming@2021/38060
+
+#EXTINF:-1,  RCN
+http://185.134.22.150:8080/jokertv/streaming@2021/38156
+
+#EXTINF:-1,  TELEMEDELLIN
+http://185.134.22.150:8080/jokertv/streaming@2021/60468
+
+#EXTINF:-1,  TELEMUNDO
+http://185.134.22.150:8080/jokertv/streaming@2021/38150
+
+#EXTINF:-1,  TELEPACIFICO
+http://185.134.22.150:8080/jokertv/streaming@2021/38064
+
+#EXTINF:-1, AMC
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35892
 
-ANIMAL PLANET
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="TV",ANIMAL PLANET
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35893
+#EXTINF:-1, AMC HD
+http://31.14.41.118:8080/blacktop/k7S96HKftq/36545
 
-AXN
-#EXTINF:-1 tvg-id="Relax.cz" tvg-name="AXN" tvg-logo="" group-title="TV",AXN
+#EXTINF:-1,  AXN
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35894
 
-HBO PLUS
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="https://d1oq4398v5395a.cloudfront.net/LOGOS/canales/1532.png" group-title="PELICULAS",HBO PLUS
+#EXTINF:-1,  AXN
+http://31.14.41.118:8080/blacktop/k7S96HKftq/36546
+
+#EXTINF:-1,  AXN
+http://185.134.22.150:8080/jokertv/streaming@2021/38042
+
+#EXTINF:-1,  AXN HD
+http://31.14.41.118:8080/blacktop/k7S96HKftq/36547
+
+#EXTINF:-1,  AXN WHITE HD
+http://31.14.41.118:8080/blacktop/k7S96HKftq/36548
+
+#EXTINF:-1,  SONY
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35957
+
+#EXTINF:-1,  FX
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35931
+
+#EXTINF:-1,  FXM
+http://185.134.22.150:8080/jokertv/streaming@2021/38139
+
+#EXTINF:-1,  GOLDEN
+http://185.134.22.150:8080/jokertv/streaming@2021/38111
+
+#EXTINF:-1,  GOLDEN PREMIER
+http://31.14.41.118:8080/blacktop/k7S96HKftq/36002
+
+#EXTINF:-1,  GLITZ
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35933
+
+#EXTINF:-1,  GLITZ
+http://185.134.22.150:8080/jokertv/streaming@2021/38050
+
+#EXTINF:-1,  AE MUNDO
+http://185.134.22.150:8080/jokertv/streaming@2021/38038
+
+#EXTINF:-1,  CANAL DE LAS ESTRELLAS
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35900
+
+#EXTINF:-1,  CANAL DE LAS ESTRELLAS
+http://185.134.22.150:8080/jokertv/streaming@2021/38074
+
+#EXTINF:-1,  AZMUNDO
+http://185.134.22.150:8080/jokertv/streaming@2021/38043
+
+#EXTINF:-1,  BBC WORLD
+http://185.134.22.150:8080/jokertv/streaming@2021/38045
+
+#EXTINF:-1,  CABLE NOTICIAS
+http://185.134.22.150:8080/jokertv/streaming@2021/61782
+
+#EXTINF:-1,  CANAL 1
+http://185.134.22.150:8080/jokertv/streaming@2021/60467
+
+#EXTINF:-1,  CANAL 5
+http://185.134.22.150:8080/jokertv/streaming@2021/38136
+
+#EXTINF:-1,  CINEMAX
+http://185.134.22.150:8080/jokertv/streaming@2021/38082
+
+#EXTINF:-1,  CITY TV
+http://185.134.22.150:8080/jokertv/streaming@2021/38049
+
+#EXTINF:-1,  CNN ESPANOL
+http://185.134.22.150:8080/jokertv/streaming@2021/38151
+
+#EXTINF:-1,  COLORADO SPRINGS | FOX KXRM
+http://185.134.22.150:8080/jokertv/streaming@2021/31944
+
+#EXTINF:-1,  COMEDY CENTRAL
+http://185.134.22.150:8080/jokertv/streaming@2021/38066
+
+#EXTINF:-1,  DENVER | FOX KDVR
+http://185.134.22.150:8080/jokertv/streaming@2021/31948
+
+#EXTINF:-1,  DENVER | NBC KUSA
+http://185.134.22.150:8080/jokertv/streaming@2021/31949
+
+#EXTINF:-1,  DHE
+http://185.134.22.150:8080/jokertv/streaming@2021/38118
+
+#EXTINF:-1,  DW
+http://185.134.22.150:8080/jokertv/streaming@2021/38116
+
+#EXTINF:-1,  EWTN
+http://185.134.22.150:8080/jokertv/streaming@2021/38092
+
+#EXTINF:-1,  PUEBLO | NBC KOAA
+http://185.134.22.150:8080/jokertv/streaming@2021/31952
+
+#EXTINF:-1,  NBC UNIVERSO
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35950
+
+#EXTINF:-1,  HOLA TV
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35943
+
+#EXTINF:-1,  Mexiquense
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35945
+
+#EXTINF:-1,  TCM
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35959
+
+#EXTINF:-1,  TLC
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35974
+
+#EXTINF:-1,  H2
+http://185.134.22.150:8080/jokertv/streaming@2021/38090
+
+#EXTINF:-1,  NAT GEO
+http://185.134.22.150:8080/jokertv/streaming@2021/38089
+
+#EXTINF:-1,  DISCOVERY H&H
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35908
+
+#EXTINF:-1,  ANIMAL PLANET
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35893
+
+#EXTINF:-1,  | ANIMAL PLANET
+http://185.134.22.150:8080/jokertv/streaming@2021/38041
+
+#EXTINF:-1,  DISCOVERY ID
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35909
+
+#EXTINF:-1,  DISCOVERY THEATER
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35911
+
+#EXTINF:-1,  DISCOVERY TLC
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35912
+
+#EXTINF:-1,  DISCOVERY CHANNEL
+http://185.134.22.150:8080/jokertv/streaming@2021/38087
+
+#EXTINF:-1,  DISCOVERY CIVILIZATION
+http://185.134.22.150:8080/jokertv/streaming@2021/38088
+
+#EXTINF:-1,  DISCOVERY HOME HEALTH
+http://185.134.22.150:8080/jokertv/streaming@2021/38086
+
+#EXTINF:-1,  DISCOVERY KIDS
+http://185.134.22.150:8080/jokertv/streaming@2021/38113
+
+#EXTINF:-1,  DISCOVERY SCIENCE
+http://185.134.22.150:8080/jokertv/streaming@2021/38115
+
+#EXTINF:-1,  DISCOVERY THEATER
+http://185.134.22.150:8080/jokertv/streaming@2021/38095
+
+#EXTINF:-1,  DISCOVERY TURBO
+http://185.134.22.150:8080/jokertv/streaming@2021/38114
+
+#EXTINF:-1,  DISCOVERY WORLD
+http://185.134.22.150:8080/jokertv/streaming@2021/38094
+
+#EXTINF:-1,  COMEDY CENTRAL
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35904
+
+#EXTINF:-1,  DISTRITO COMEDIA
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35917
+
+--------INFANTILES-------------------------------
+
+#EXTINF:-1,  DISCOVERY KIDS
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35910
+
+#EXTINF:-1,  BOOMERANG
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35898
+
+#EXTINF:-1,  BLOOMBERG
+http://185.134.22.150:8080/jokertv/streaming@2021/38046
+
+#EXTINF:-1,  CARTOON NETWORK
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35901
+
+#EXTINF:-1,  DISCOVERY TURBO
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35913
+
+#EXTINF:-1,  M. DISNEY
+http://31.14.41.118:8080/blacktop/k7S96HKftq/36559
+
+#EXTINF:-1,  DISNEY
+http://185.134.22.150:8080/jokertv/streaming@2021/38122
+
+#EXTINF:-1,  DISNEY JR
+http://185.134.22.150:8080/jokertv/streaming@2021/38125
+
+#EXTINF:-1,  DISNEY CHANNEL
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35915
+
+#EXTINF:-1,  DISNEY JR
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35916
+
+#EXTINF:-1,  NICKELODEON  HD
+http://31.14.41.118:8080/blacktop/k7S96HKftq/36544
+
+#EXTINF:-1,  NICK
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35951
+
+#EXTINF:-1,  NICK JR
+http://185.134.22.150:8080/jokertv/streaming@2021/38085
+
+#EXTINF:-1,  NICKELODEON
+http://185.134.22.150:8080/jokertv/streaming@2021/38108
+
+#EXTINF:-1,  NICK 2
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35952
+
+#EXTINF:-1,  NICK JR
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35953
+
+#EXTINF:-1,  NICKTOONS
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35954
+
+#EXTINF:-1,  TOONCAST
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35977
+
+-------- CANAL DE PELICULAS----------------------
+
+#EXTINF:-1,  GOLDEN EDGE
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35935
+
+#EXTINF:-1,  CINE CANAL
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35902
+
+#EXTINF:-1,  HBO
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35938
+
+#EXTINF:-1,  HBO 2
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35939
+
+#EXTINF:-1,  HBO FAMILY
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35940
+
+#EXTINF:-1,  HBO
+http://185.134.22.150:8080/jokertv/streaming@2021/38135
+
+#EXTINF:-1,  HBO 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38083
+
+#EXTINF:-1,  HBO PLUS
 http://185.134.22.150:8080/jokertv/streaming@2021/38128
+
+#EXTINF:-1,  HBO SIGNATURE
+http://185.134.22.150:8080/jokertv/streaming@2021/38068
+
+#EXTINF:-1,  SPACE
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35958
+
+#EXTINF:-1,  TNT
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35975
+
+#EXTINF:-1,  TNT
+http://185.134.22.150:8080/jokertv/streaming@2021/38105
+
+#EXTINF:-1,  STUDIO UNIVERSAL
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35984
+
+------- DEPORTES --------------------------------
+
+#EXTINF:-1,  WIN SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/38062
+
+#EXTINF:-1,  WINSPORTS
+http://31.14.41.118:8080/blacktop/k7S96HKftq/36001
+
+#EXTINF:-1,  ESPN
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35919
+
+#EXTINF:-1,  ESPN
+http://185.134.22.150:8080/jokertv/streaming@2021/60474
+
+#EXTINF:-1,  ESPN 3
+http://185.134.22.150:8080/jokertv/streaming@2021/38054
+
+#EXTINF:-1,  ESPN 1
+http://185.134.22.150:8080/jokertv/streaming@2021/62455
+
+#EXTINF:-1,  ESPN 2
+http://185.134.22.150:8080/jokertv/streaming@2021/62457
+
+#EXTINF:-1,  ESPN 2
+http://185.134.22.150:8080/jokertv/streaming@2021/62458
+
+#EXTINF:-1,  ESPN 2
+http://185.134.22.150:8080/jokertv/streaming@2021/62459
+
+#EXTINF:-1,  ESPN 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62461
+
+#EXTINF:-1,  ESPN 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62462
+
+#EXTINF:-1,  ESPN 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62463
+
+#EXTINF:-1,  ESPN 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62464
+
+#EXTINF:-1,  FOX SPORTS 1
+http://185.134.22.150:8080/jokertv/streaming@2021/62470
+
+#EXTINF:-1,  FOX SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62477
+
+#EXTINF:-1,  FOX SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62478
+
+#EXTINF:-1,  FOX SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62479
+
+#EXTINF:-1,  FOX SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62480
+
+#EXTINF:-1,  FOX SPORTS PREMIUM
+http://185.134.22.150:8080/jokertv/streaming@2021/62481
+
+#EXTINF:-1,  FOX SPORTS PREMIUM
+http://185.134.22.150:8080/jokertv/streaming@2021/62482
+
+#EXTINF:-1,  FOX SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/56660
+
+#EXTINF:-1,  FOX SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/56663
+
+#EXTINF:-1,  FOX SPORTS 1
+http://185.134.22.150:8080/jokertv/streaming@2021/56705
+
+#EXTINF:-1,  FOX SPORTS 1 PREMIUM
+http://185.134.22.150:8080/jokertv/streaming@2021/56706
+
+#EXTINF:-1,  FOX SPORTS 2
+http://185.134.22.150:8080/jokertv/streaming@2021/56662
+
+#EXTINF:-1,  FOX SOCCER PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/38137
+
+#EXTINF:-1,  FOX SPORTS 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38132
+
+#EXTINF:-1,  FOX SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/38057
+
+#EXTINF:-1,  TNT SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/62536
+
+#EXTINF:-1,  TNT SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/62537
+
+#EXTINF:-1,  TNT SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/62538
+
+#EXTINF:-1,  TNT SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/56621
+
+#EXTINF:-1,  TNT SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/56628
+
+#EXTINF:-1,  TNT SPORTS 2
+http://185.134.22.150:8080/jokertv/streaming@2021/56637
+
+#EXTINF:-1,  TNT SPORTS 2
+http://185.134.22.150:8080/jokertv/streaming@2021/56638
+
+#EXTINF:-1,  TNT SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/56622
+
+#EXTINF:-1,  ESPN 3
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35921
+
+#EXTINF:-1,  FOX SPORTS 2
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35929
+
+#EXTINF:-1,  DIRECTV SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/56653
+
+#EXTINF:-1,  DIRECTV SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/56654
+
+#EXTINF:-1,  ESTADIO TNT SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/61186
+
+#EXTINF:-1,  ESTADIO TNT SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/56626
+
+--------------MUSICALES--------------
+
+#EXTINF:-1,  HTV
+http://185.134.22.150:8080/jokertv/streaming@2021/38126
+
+#EXTINF:-1,  MTV
+http://185.134.22.150:8080/jokertv/streaming@2021/38077
+
+#EXTINF:-1,  MTV HITS
+http://185.134.22.150:8080/jokertv/streaming@2021/38073
+
+#EXTINF:-1,  MTV LIVE
+http://185.134.22.150:8080/jokertv/streaming@2021/38124
+
+#EXTINF:-1,  VH1 CLASSIC
+http://185.134.22.150:8080/jokertv/streaming@2021/38121
+
+#EXTINF:-1,  MTV
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35946
+
+#EXTINF:-1,  VH1
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35998
+
+#EXTINF:-1,  VH1 CLASSIC
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35999
+
+---------------INTERNACIONALES------------------------
+
+
+#EXTINF:-1,Perú | Peru Magico
+http://31.14.41.118:8080/blacktop/k7S96HKftq/36029
+
+
+#EXTINF:-1,00 | TELEMUNDO INTERNACIONAL
+http://185.134.22.150:8080/jokertv/streaming@2021/46790
+
+#EXTINF:-1,00 | UNIMAS (EAST)
+http://185.134.22.150:8080/jokertv/streaming@2021/46831
+
+#EXTINF:-1,00 | UNIMAS (WEST)
+http://185.134.22.150:8080/jokertv/streaming@2021/46769
+
+#EXTINF:-1,00 | UNIVISION (EAST)
+http://185.134.22.150:8080/jokertv/streaming@2021/46751
+
+#EXTINF:-1,00 | UNIVISION (EAST)
+http://185.134.22.150:8080/jokertv/streaming@2021/46847
+
+#EXTINF:-1,00 | UNIVISION NOTICIAS
+http://185.134.22.150:8080/jokertv/streaming@2021/46851
+
+
+
+
+
