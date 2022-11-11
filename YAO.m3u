@@ -243,224 +243,224 @@ http://31.14.41.118:8080/blacktop/k7S96HKftq/35954
 #EXTINF:-1,  TOONCAST   group-title="ANIMADOS"
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35977
 
--------- CANAL DE PELICULAS----------------------
 
-#EXTINF:-1,  GOLDEN EDGE
+
+
+#EXTINF:-1,  GOLDEN EDGE group-title="CANALES PELICULAS"
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35935
 
-#EXTINF:-1,  CINE CANAL
+#EXTINF:-1,  CINE CANAL group-title="CANALES PELICULAS"
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35902
 
-#EXTINF:-1,  HBO
+#EXTINF:-1,  HBO group-title="CANALES PELICULAS"
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35938
 
-#EXTINF:-1,  HBO 2
+#EXTINF:-1,  HBO 2 group-title="CANALES PELICULAS"
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35939
 
-#EXTINF:-1,  HBO FAMILY
+#EXTINF:-1,  HBO FAMILY group-title="CANALES PELICULAS"
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35940
 
-#EXTINF:-1,  HBO
+#EXTINF:-1,  HBO group-title="CANALES PELICULAS"
 http://185.134.22.150:8080/jokertv/streaming@2021/38135
 
-#EXTINF:-1,  HBO 2
+#EXTINF:-1,  HBO 2 group-title="CANALES PELICULAS"
 http://185.134.22.150:8080/jokertv/streaming@2021/38083
 
-#EXTINF:-1,  HBO PLUS
+#EXTINF:-1,  HBO PLUS group-title="CANALES PELICULAS"
 http://185.134.22.150:8080/jokertv/streaming@2021/38128
 
-#EXTINF:-1,  HBO SIGNATURE
+#EXTINF:-1,  HBO SIGNATURE group-title="CANALES PELICULAS"
 http://185.134.22.150:8080/jokertv/streaming@2021/38068
 
-#EXTINF:-1,  SPACE
+#EXTINF:-1,  SPACE group-title="CANALES PELICULAS"
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35958
 
-#EXTINF:-1,  TNT
+#EXTINF:-1,  TNT group-title="CANALES PELICULAS"
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35975
 
-#EXTINF:-1,  TNT
+#EXTINF:-1,  TNT group-title="CANALES PELICULAS"
 http://185.134.22.150:8080/jokertv/streaming@2021/38105
 
-#EXTINF:-1,  STUDIO UNIVERSAL
+#EXTINF:-1,  STUDIO UNIVERSAL group-title="CANALES PELICULAS"
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35984
 
-------- DEPORTES --------------------------------
 
-#EXTINF:-1,  WIN SPORTS
+
+
+#EXTINF:-1,  WIN SPORTS group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/38062
 
-#EXTINF:-1,  WINSPORTS
+#EXTINF:-1,  WINSPORTS group-title="DEPORTES"
 http://31.14.41.118:8080/blacktop/k7S96HKftq/36001
 
-#EXTINF:-1,  ESPN
+#EXTINF:-1,  ESPN group-title="DEPORTES"
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35919
 
-#EXTINF:-1,  ESPN
+#EXTINF:-1,  ESPN group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/60474
 
-#EXTINF:-1,  ESPN 3
+#EXTINF:-1,  ESPN 3 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/38054
 
-#EXTINF:-1,  ESPN 1
+#EXTINF:-1,  ESPN 1 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/62455
 
-#EXTINF:-1,  ESPN 2
+#EXTINF:-1,  ESPN 2 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/62457
 
-#EXTINF:-1,  ESPN 2
+#EXTINF:-1,  ESPN 2 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/62458
 
-#EXTINF:-1,  ESPN 2
+#EXTINF:-1,  ESPN 2 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/62459
 
-#EXTINF:-1,  ESPN 3
+#EXTINF:-1,  ESPN 3 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/62461
 
-#EXTINF:-1,  ESPN 3
+#EXTINF:-1,  ESPN 3 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/62462
 
-#EXTINF:-1,  ESPN 3
+#EXTINF:-1,  ESPN 3 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/62463
 
-#EXTINF:-1,  ESPN 3
+#EXTINF:-1,  ESPN 3 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/62464
 
-#EXTINF:-1,  FOX SPORTS 1
+#EXTINF:-1,  FOX SPORTS 1 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/62470
 
-#EXTINF:-1,  FOX SPORTS 3
+#EXTINF:-1,  FOX SPORTS 3 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/62477
 
-#EXTINF:-1,  FOX SPORTS 3
+#EXTINF:-1,  FOX SPORTS 3 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/62478
 
-#EXTINF:-1,  FOX SPORTS 3
+#EXTINF:-1,  FOX SPORTS 3 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/62479
 
-#EXTINF:-1,  FOX SPORTS 3
+#EXTINF:-1,  FOX SPORTS 3 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/62480
 
-#EXTINF:-1,  FOX SPORTS PREMIUM
+#EXTINF:-1,  FOX SPORTS PREMIUM group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/62481
 
-#EXTINF:-1,  FOX SPORTS PREMIUM
+#EXTINF:-1,  FOX SPORTS PREMIUM group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/62482
 
-#EXTINF:-1,  FOX SPORTS
+#EXTINF:-1,  FOX SPORTS group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/56660
 
-#EXTINF:-1,  FOX SPORTS
+#EXTINF:-1,  FOX SPORTS group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/56663
 
-#EXTINF:-1,  FOX SPORTS 1
+#EXTINF:-1,  FOX SPORTS 1 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/56705
 
-#EXTINF:-1,  FOX SPORTS 1 PREMIUM
+#EXTINF:-1,  FOX SPORTS 1 PREMIUM group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/56706
 
-#EXTINF:-1,  FOX SPORTS 2
+#EXTINF:-1,  FOX SPORTS 2 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/56662
 
-#EXTINF:-1,  FOX SOCCER PLUS
+#EXTINF:-1,  FOX SOCCER PLUS group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/38137
 
-#EXTINF:-1,  FOX SPORTS 2
+#EXTINF:-1,  FOX SPORTS 2 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/38132
 
-#EXTINF:-1,  FOX SPORTS 3
+#EXTINF:-1,  FOX SPORTS 3 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/38057
 
-#EXTINF:-1,  TNT SPORTS
+#EXTINF:-1,  TNT SPORTS group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/62536
 
-#EXTINF:-1,  TNT SPORTS
+#EXTINF:-1,  TNT SPORTS group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/62537
 
-#EXTINF:-1,  TNT SPORTS
+#EXTINF:-1,  TNT SPORTS group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/62538
 
-#EXTINF:-1,  TNT SPORTS
+#EXTINF:-1,  TNT SPORTS group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/56621
 
-#EXTINF:-1,  TNT SPORTS
+#EXTINF:-1,  TNT SPORTS group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/56628
 
-#EXTINF:-1,  TNT SPORTS 2
+#EXTINF:-1,  TNT SPORTS 2 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/56637
 
-#EXTINF:-1,  TNT SPORTS 2
+#EXTINF:-1,  TNT SPORTS 2 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/56638
 
-#EXTINF:-1,  TNT SPORTS 3
+#EXTINF:-1,  TNT SPORTS 3 group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/56622
 
-#EXTINF:-1,  ESPN 3
+#EXTINF:-1,  ESPN 3 group-title="DEPORTES"
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35921
 
-#EXTINF:-1,  FOX SPORTS 2
+#EXTINF:-1,  FOX SPORTS 2 group-title="DEPORTES"
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35929
 
-#EXTINF:-1,  DIRECTV SPORTS
+#EXTINF:-1,  DIRECTV SPORTS group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/56653
 
-#EXTINF:-1,  DIRECTV SPORTS
+#EXTINF:-1,  DIRECTV SPORTS group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/56654
 
-#EXTINF:-1,  ESTADIO TNT SPORTS
+#EXTINF:-1,  ESTADIO TNT SPORTS group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/61186
 
-#EXTINF:-1,  ESTADIO TNT SPORTS
+#EXTINF:-1,  ESTADIO TNT SPORTS group-title="DEPORTES"
 http://185.134.22.150:8080/jokertv/streaming@2021/56626
 
---------------MUSICALES--------------
 
-#EXTINF:-1,  HTV
+
+#EXTINF:-1,  HTV group-title="MUSICALES"
 http://185.134.22.150:8080/jokertv/streaming@2021/38126
 
-#EXTINF:-1,  MTV
+#EXTINF:-1,  MTV group-title="MUSICALES"
 http://185.134.22.150:8080/jokertv/streaming@2021/38077
 
-#EXTINF:-1,  MTV HITS
+#EXTINF:-1,  MTV HITS group-title="MUSICALES"
 http://185.134.22.150:8080/jokertv/streaming@2021/38073
 
-#EXTINF:-1,  MTV LIVE
+#EXTINF:-1,  MTV LIVE group-title="MUSICALES"
 http://185.134.22.150:8080/jokertv/streaming@2021/38124
 
-#EXTINF:-1,  VH1 CLASSIC
+#EXTINF:-1,  VH1 CLASSIC group-title="MUSICALES"
 http://185.134.22.150:8080/jokertv/streaming@2021/38121
 
-#EXTINF:-1,  MTV
+#EXTINF:-1,  MTV group-title="MUSICALES"
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35946
 
-#EXTINF:-1,  VH1
+#EXTINF:-1,  VH1 group-title="MUSICALES"
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35998
 
-#EXTINF:-1,  VH1 CLASSIC
+#EXTINF:-1,  VH1 CLASSIC group-title="MUSICALES"
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35999
 
----------------INTERNACIONALES------------------------
 
 
-#EXTINF:-1,Perú | Peru Magico
+#EXTINF:-1,Perú | Peru Magico  group-title="INTERNACIONALES"
 http://31.14.41.118:8080/blacktop/k7S96HKftq/36029
 
-
-#EXTINF:-1,00 | TELEMUNDO INTERNACIONAL
+#EXTINF:-1,00 | TELEMUNDO INTERNACIONAL  group-title="INTERNACIONALES"
 http://185.134.22.150:8080/jokertv/streaming@2021/46790
 
-#EXTINF:-1,00 | UNIMAS (EAST)
+#EXTINF:-1,00 | UNIMAS (EAST)  group-title="INTERNACIONALES"
 http://185.134.22.150:8080/jokertv/streaming@2021/46831
 
-#EXTINF:-1,00 | UNIMAS (WEST)
+#EXTINF:-1,00 | UNIMAS (WEST)  group-title="INTERNACIONALES"
 http://185.134.22.150:8080/jokertv/streaming@2021/46769
 
-#EXTINF:-1,00 | UNIVISION (EAST)
+#EXTINF:-1,00 | UNIVISION (EAST)  group-title="INTERNACIONALES"
 http://185.134.22.150:8080/jokertv/streaming@2021/46751
 
-#EXTINF:-1,00 | UNIVISION (EAST)
+#EXTINF:-1,00 | UNIVISION (EAST)  group-title="INTERNACIONALES"
 http://185.134.22.150:8080/jokertv/streaming@2021/46847
 
-#EXTINF:-1,00 | UNIVISION NOTICIAS
+#EXTINF:-1,00 | UNIVISION NOTICIAS  group-title="INTERNACIONALES"
 http://185.134.22.150:8080/jokertv/streaming@2021/46851
 
 
