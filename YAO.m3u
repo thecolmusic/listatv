@@ -1,467 +1,212 @@
 #EXTM3U
-
-#EXTINF:-1,  CARACOL group-title="TV"
+#EXTINF:0 type="stream" channelId="4773" group="TV", CARACOL
 http://185.134.22.150:8080/jokertv/streaming@2021/38246
-
-#EXTINF:-1,  CARACOL INT group-title="TV"
+#EXTINF:0 type="stream" channelId="4773" group="TV", CARACOL INT
 http://185.134.22.150:8080/jokertv/streaming@2021/38060
-
-#EXTINF:-1,  RCN group-title="TV"
+#EXTINF:0 type="stream" channelId="3783" group="TV", RCN
 http://185.134.22.150:8080/jokertv/streaming@2021/38156
-
-#EXTINF:-1,  TELEMEDELLIN group-title="TV"
+#EXTINF:0 type="stream" channelId="-1" group="TV", TELEMEDELLIN
 http://185.134.22.150:8080/jokertv/streaming@2021/60468
-
-#EXTINF:-1,  TELEMUNDO group-title="TV"
+#EXTINF:0 type="stream" channelId="1967" group="TV", TELEMUNDO
 http://185.134.22.150:8080/jokertv/streaming@2021/38150
-
-#EXTINF:-1,  TELEPACIFICO group-title="TV"
+#EXTINF:0 type="stream" channelId="4786" group="TV", TELEPACIFICO
 http://185.134.22.150:8080/jokertv/streaming@2021/38064
-
-#EXTINF:-1, AMC group-title="TV"
+#EXTINF:0 type="stream" channelId="2501" group="TV", AMC
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35892
-
-#EXTINF:-1, AMC HD group-title="TV"
+#EXTINF:0 type="stream" channelId="2501" group="TV", AMC HD
 http://31.14.41.118:8080/blacktop/k7S96HKftq/36545
-
-#EXTINF:-1,  AXN group-title="TV"
+#EXTINF:0 type="stream" channelId="1573" group="TV", AXN
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35894
-
-#EXTINF:-1,  AXN group-title="TV"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/36546
-
-#EXTINF:-1,  AXN group-title="TV"
+#EXTINF:0 type="stream" channelId="1573" group="TV", AXN
 http://185.134.22.150:8080/jokertv/streaming@2021/38042
-
-#EXTINF:-1,  AXN HD group-title="TV"
+#EXTINF:0 type="stream" channelId="2246" group="TV", AXN HD
 http://31.14.41.118:8080/blacktop/k7S96HKftq/36547
-
-#EXTINF:-1,  AXN WHITE HD group-title="TV"
+#EXTINF:0 type="stream" channelId="1574" group="TV", AXN WHITE HD
 http://31.14.41.118:8080/blacktop/k7S96HKftq/36548
-
-#EXTINF:-1,  SONY group-title="TV"
+#EXTINF:0 type="stream" channelId="188" group="TV", SONY
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35957
-
-#EXTINF:-1,  FX group-title="TV"
+#EXTINF:0 type="stream" channelId="1303" group="TV", FX
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35931
-
-#EXTINF:-1,  FXM group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38139
-
-#EXTINF:-1,  GOLDEN group-title="TV"
+#EXTINF:0 type="stream" channelId="333" group="TV", GOLDEN
 http://185.134.22.150:8080/jokertv/streaming@2021/38111
-
-#EXTINF:-1,  GOLDEN PREMIER group-title="TV"
+#EXTINF:0 type="stream" channelId="1963" group="TV", GOLDEN PREMIER
 http://31.14.41.118:8080/blacktop/k7S96HKftq/36002
-
-#EXTINF:-1,  GLITZ group-title="TV"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35933
-
-#EXTINF:-1,  GLITZ group-title="TV"
+#EXTINF:0 type="stream" channelId="3763" group="TV", GLITZ
 http://185.134.22.150:8080/jokertv/streaming@2021/38050
-
-#EXTINF:-1,  AE MUNDO group-title="TV"
+#EXTINF:0 type="stream" channelId="1208" group="TV", A&E
 http://185.134.22.150:8080/jokertv/streaming@2021/38038
-
-#EXTINF:-1,  CANAL DE LAS ESTRELLAS group-title="TV"
+#EXTINF:0 type="stream" channelId="1954" group="TV", CANAL DE LAS ESTRELLAS
 http://31.14.41.118:8080/blacktop/k7S96HKftq/35900
-
-#EXTINF:-1,  CANAL DE LAS ESTRELLAS group-title="TV"
+#EXTINF:0 type="stream" channelId="2287" group="TV", CANAL DE LAS ESTRELLAS
 http://185.134.22.150:8080/jokertv/streaming@2021/38074
-
-#EXTINF:-1,  AZMUNDO group-title="TV"
+#EXTINF:0 type="stream" channelId="228" group="TV", AZMUNDO
 http://185.134.22.150:8080/jokertv/streaming@2021/38043
-
-#EXTINF:-1,  BBC WORLD group-title="TV"
+#EXTINF:0 type="stream" channelId="118" group="TV", BBC WORLD
 http://185.134.22.150:8080/jokertv/streaming@2021/38045
-
-#EXTINF:-1,  CABLE NOTICIAS group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/61782
-
-#EXTINF:-1,  CANAL 1 group-title="TV"
+#EXTINF:0 type="stream" channelId="4775" group="TV", CANAL 1
 http://185.134.22.150:8080/jokertv/streaming@2021/60467
-
-#EXTINF:-1,  CANAL 5 group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38136
-
-#EXTINF:-1,  CINEMAX group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38082
-
-#EXTINF:-1,  CITY TV group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38049
-
-#EXTINF:-1,  CNN ESPANOL group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38151
-
-#EXTINF:-1,  FOX KXRM  group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/31944
-
-#EXTINF:-1,  COMEDY CENTRAL group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38066
-
-#EXTINF:-1, FOX KDVR group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/31948
-
-#EXTINF:-1, NBC KUSA  group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/31949
-
-#EXTINF:-1,  DHE group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38118
-
-#EXTINF:-1,  DW group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38116
-
-#EXTINF:-1,  EWTN group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38092
-
-#EXTINF:-1,  PUEBLO | NBC KOAA group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/31952
-
-#EXTINF:-1,  NBC UNIVERSO group-title="TV"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35950
-
-#EXTINF:-1,  HOLA TV group-title="TV"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35943
-
-#EXTINF:-1,  Mexiquense group-title="TV"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35945
-
-#EXTINF:-1,  TCM group-title="TV"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35959
-
-#EXTINF:-1,  TLC group-title="TV"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35974
-
-#EXTINF:-1,  H2 group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38090
-
-#EXTINF:-1,  NAT GEO group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38089
-
-#EXTINF:-1,  DISCOVERY H&H group-title="TV"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35908
-
-#EXTINF:-1,  ANIMAL PLANET group-title="TV"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35893
-
-#EXTINF:-1,  | ANIMAL PLANET group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38041
-
-#EXTINF:-1,  DISCOVERY ID group-title="TV"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35909
-
-#EXTINF:-1,  DISCOVERY THEATER group-title="TV"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35911
-
-#EXTINF:-1,  DISCOVERY TLC group-title="TV"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35912
-
-#EXTINF:-1,  DISCOVERY CHANNEL group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38087
-
-#EXTINF:-1,  DISCOVERY CIVILIZATION group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38088
-
-#EXTINF:-1,  DISCOVERY HOME HEALTH group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38086
-
-#EXTINF:-1,  DISCOVERY KIDS group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38113
-
-#EXTINF:-1,  DISCOVERY SCIENCE group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38115
-
-#EXTINF:-1,  DISCOVERY THEATER group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38095
-
-#EXTINF:-1,  DISCOVERY TURBO group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38114
-
-#EXTINF:-1,  DISCOVERY WORLD group-title="TV"
-http://185.134.22.150:8080/jokertv/streaming@2021/38094
-
-#EXTINF:-1,  COMEDY CENTRAL group-title="TV"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35904
-
-#EXTINF:-1,  DISTRITO COMEDIA group-title="TV"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35917
-
-
-
-
-#EXTINF:-1,  DISCOVERY KIDS  group-title="ANIMADOS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35910
-
-#EXTINF:-1,  BOOMERANG  group-title="ANIMADOS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35898
-
-#EXTINF:-1,  BLOOMBERG  group-title="ANIMADOS"
-http://185.134.22.150:8080/jokertv/streaming@2021/38046
-
-#EXTINF:-1,  CARTOON NETWORK  group-title="ANIMADOS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35901
-
-#EXTINF:-1,  DISCOVERY TURBO  group-title="ANIMADOS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35913
-
-#EXTINF:-1,  M. DISNEY  group-title="ANIMADOS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/36559
-
-#EXTINF:-1,  DISNEY  group-title="ANIMADOS"
-http://185.134.22.150:8080/jokertv/streaming@2021/38122
-
-#EXTINF:-1,  DISNEY JR  group-title="ANIMADOS"
-http://185.134.22.150:8080/jokertv/streaming@2021/38125
-
-#EXTINF:-1,  DISNEY CHANNEL  group-title="ANIMADOS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35915
-
-#EXTINF:-1,  DISNEY JR  group-title="ANIMADOS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35916
-
-#EXTINF:-1,  NICKELODEON  HD  group-title="ANIMADOS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/36544
-
-#EXTINF:-1,  NICK  group-title="ANIMADOS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35951
-
-#EXTINF:-1,  NICK JR  group-title="ANIMADOS"
-http://185.134.22.150:8080/jokertv/streaming@2021/38085
-
-#EXTINF:-1,  NICKELODEON  group-title="ANIMADOS"
-http://185.134.22.150:8080/jokertv/streaming@2021/38108
-
-#EXTINF:-1,  NICK 2  group-title="ANIMADOS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35952
-
-#EXTINF:-1,  NICK JR  group-title="ANIMADOS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35953
-
-#EXTINF:-1,  NICKTOONS  group-title="ANIMADOS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35954
-
-#EXTINF:-1,  TOONCAST   group-title="ANIMADOS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35977
-
-
-
-
-#EXTINF:-1,  GOLDEN EDGE group-title="CANALES PELICULAS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35935
-
-#EXTINF:-1,  CINE CANAL group-title="CANALES PELICULAS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35902
-
-#EXTINF:-1,  HBO group-title="CANALES PELICULAS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35938
-
-#EXTINF:-1,  HBO 2 group-title="CANALES PELICULAS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35939
-
-#EXTINF:-1,  HBO FAMILY group-title="CANALES PELICULAS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35940
-
-#EXTINF:-1,  HBO group-title="CANALES PELICULAS"
-http://185.134.22.150:8080/jokertv/streaming@2021/38135
-
-#EXTINF:-1,  HBO 2 group-title="CANALES PELICULAS"
-http://185.134.22.150:8080/jokertv/streaming@2021/38083
-
-#EXTINF:-1,  HBO PLUS group-title="CANALES PELICULAS"
-http://185.134.22.150:8080/jokertv/streaming@2021/38128
-
-#EXTINF:-1,  HBO SIGNATURE group-title="CANALES PELICULAS"
-http://185.134.22.150:8080/jokertv/streaming@2021/38068
-
-#EXTINF:-1,  SPACE group-title="CANALES PELICULAS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35958
-
-#EXTINF:-1,  TNT group-title="CANALES PELICULAS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35975
-
-#EXTINF:-1,  TNT group-title="CANALES PELICULAS"
-http://185.134.22.150:8080/jokertv/streaming@2021/38105
-
-#EXTINF:-1,  STUDIO UNIVERSAL group-title="CANALES PELICULAS"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35984
-
-
-
-
-#EXTINF:-1,  WIN SPORTS group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/38062
-
-#EXTINF:-1,  WINSPORTS group-title="DEPORTES"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/36001
-
-#EXTINF:-1,  ESPN group-title="DEPORTES"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35919
-
-#EXTINF:-1,  ESPN group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/60474
-
-#EXTINF:-1,  ESPN 3 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/38054
-
-#EXTINF:-1,  ESPN 1 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/62455
-
-#EXTINF:-1,  ESPN 2 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/62457
-
-#EXTINF:-1,  ESPN 2 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/62458
-
-#EXTINF:-1,  ESPN 2 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/62459
-
-#EXTINF:-1,  ESPN 3 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/62461
-
-#EXTINF:-1,  ESPN 3 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/62462
-
-#EXTINF:-1,  ESPN 3 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/62463
-
-#EXTINF:-1,  ESPN 3 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/62464
-
-#EXTINF:-1,  FOX SPORTS 1 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/62470
-
-#EXTINF:-1,  FOX SPORTS 3 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/62477
-
-#EXTINF:-1,  FOX SPORTS 3 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/62478
-
-#EXTINF:-1,  FOX SPORTS 3 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/62479
-
-#EXTINF:-1,  FOX SPORTS 3 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/62480
-
-#EXTINF:-1,  FOX SPORTS PREMIUM group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/62481
-
-#EXTINF:-1,  FOX SPORTS PREMIUM group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/62482
-
-#EXTINF:-1,  FOX SPORTS group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/56660
-
-#EXTINF:-1,  FOX SPORTS group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/56663
-
-#EXTINF:-1,  FOX SPORTS 1 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/56705
-
-#EXTINF:-1,  FOX SPORTS 1 PREMIUM group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/56706
-
-#EXTINF:-1,  FOX SPORTS 2 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/56662
-
-#EXTINF:-1,  FOX SOCCER PLUS group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/38137
-
-#EXTINF:-1,  FOX SPORTS 2 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/38132
-
-#EXTINF:-1,  FOX SPORTS 3 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/38057
-
-#EXTINF:-1,  TNT SPORTS group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/62536
-
-#EXTINF:-1,  TNT SPORTS group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/62537
-
-#EXTINF:-1,  TNT SPORTS group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/62538
-
-#EXTINF:-1,  TNT SPORTS group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/56621
-
-#EXTINF:-1,  TNT SPORTS group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/56628
-
-#EXTINF:-1,  TNT SPORTS 2 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/56637
-
-#EXTINF:-1,  TNT SPORTS 2 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/56638
-
-#EXTINF:-1,  TNT SPORTS 3 group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/56622
-
-#EXTINF:-1,  ESPN 3 group-title="DEPORTES"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35921
-
-#EXTINF:-1,  FOX SPORTS 2 group-title="DEPORTES"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35929
-
-#EXTINF:-1,  DIRECTV SPORTS group-title="DEPORTES"
+#EXTINF:0 type="stream" channelId="-1" group="TV", TELEAMAZONAS
 http://185.134.22.150:8080/jokertv/streaming@2021/56653
-
-#EXTINF:-1,  DIRECTV SPORTS group-title="DEPORTES"
+#EXTINF:0 type="stream" channelId="1955" group="TV", CANAL 5
+http://185.134.22.150:8080/jokertv/streaming@2021/38136
+#EXTINF:0 type="stream" channelId="1326" group="TV", CINEMAX
+http://185.134.22.150:8080/jokertv/streaming@2021/38082
+#EXTINF:0 type="stream" channelId="1409" group="TV", CITY Television
+http://185.134.22.150:8080/jokertv/streaming@2021/38049
+#EXTINF:0 type="stream" channelId="1972" group="TV", CNN ESPANOL
+http://185.134.22.150:8080/jokertv/streaming@2021/38151
+#EXTINF:0 type="stream" channelId="1190" group="TV", COMEDY CENTRAL
+http://185.134.22.150:8080/jokertv/streaming@2021/38066
+#EXTINF:0 type="stream" channelId="3743" group="TV", DHE
+http://185.134.22.150:8080/jokertv/streaming@2021/38118
+#EXTINF:0 type="stream" channelId="1491" group="TV", EWTN
+http://185.134.22.150:8080/jokertv/streaming@2021/38092
+#EXTINF:0 type="stream" channelId="1442" group="TV", NBC UNIVERSO
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35950
+#EXTINF:0 type="stream" channelId="340" group="TV", Mexiquense TV
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35945
+#EXTINF:0 type="stream" channelId="2131" group="TV", TCM
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35959
+#EXTINF:0 type="stream" channelId="1201" group="TV", H2
+http://185.134.22.150:8080/jokertv/streaming@2021/38090
+#EXTINF:0 type="stream" channelId="4597" group="TV", NAT GEO
+http://185.134.22.150:8080/jokertv/streaming@2021/38089
+#EXTINF:0 type="stream" channelId="50", ANIMAL PLANET
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35893
+#EXTINF:0 type="stream" channelId="59" group="TV", DISCOVERY ID
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35909
+#EXTINF:0 type="stream" channelId="2558" group="TV", DISCOVERY THEATER
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35911
+#EXTINF:0 type="stream" channelId="67" group="TV", DISCOVERY TLC
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35912
+#EXTINF:0 type="stream" channelId="57" group="TV", DISCOVERY CHANNEL
+http://185.134.22.150:8080/jokertv/streaming@2021/38087
+#EXTINF:0 type="stream" channelId="2841" group="TV", DISCOVERY CIVILIZATION
+http://185.134.22.150:8080/jokertv/streaming@2021/38088
+#EXTINF:0 type="stream" channelId="2620" group="TV", DISCOVERY HOME HEALTH
+http://185.134.22.150:8080/jokertv/streaming@2021/38086
+#EXTINF:0 type="stream" channelId="2505" group="ANIMADOS", DISCOVERY KIDS
+http://185.134.22.150:8080/jokertv/streaming@2021/38113
+#EXTINF:0 type="stream" channelId="58" group="TV", DISCOVERY SCIENCE
+http://185.134.22.150:8080/jokertv/streaming@2021/38115
+#EXTINF:0 type="stream" channelId="2558" group="TV", DISCOVERY THEATER
+http://185.134.22.150:8080/jokertv/streaming@2021/38095
+#EXTINF:0 type="stream" channelId="2840" group="TV", DISCOVERY TURBO
+http://185.134.22.150:8080/jokertv/streaming@2021/38114
+#EXTINF:0 type="stream" channelId="2840" group="TV", DISCOVERY TURBO
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35913
+#EXTINF:0 type="stream" channelId="2839" group="TV", DISCOVERY WORLD
+http://185.134.22.150:8080/jokertv/streaming@2021/38094
+#EXTINF:0 type="stream" channelId="1190" group="TV", COMEDY CENTRAL
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35904
+#EXTINF:0 type="stream" channelId="1961" group="TV", DISTRITO COMEDIA
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35917
+#EXTINF:0 type="stream" channelId="2505" group="ANIMADOS", DISCOVERY KIDS
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35910
+#EXTINF:0 type="stream" channelId="321" group="ANIMADOS", BOOMERANG
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35898
+#EXTINF:0 type="stream" channelId="40" group="ANIMADOS", CARTOON NETWORK
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35901
+#EXTINF:0 type="stream" channelId="19" group="ANIMADOS", DISNEY
+http://185.134.22.150:8080/jokertv/streaming@2021/38122
+#EXTINF:0 type="stream" channelId="19" group="ANIMADOS", DISNEY CHANEL
+http://185.134.22.150:8080/jokertv/streaming@2021/38125
+#EXTINF:0 type="stream" channelId="41" group="ANIMADOS", NICKELODEON
+http://185.134.22.150:8080/jokertv/streaming@2021/38108
+#EXTINF:0 type="stream" channelId="334" group="ANIMADOS", NICKELODEON  HD
+http://31.14.41.118:8080/blacktop/k7S96HKftq/36544
+#EXTINF:0 type="stream" channelId="2708" group="ANIMADOS", NICK 2
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35952
+#EXTINF:0 type="stream" channelId="322" group="ANIMADOS", NICK JR
+http://185.134.22.150:8080/jokertv/streaming@2021/38085
+#EXTINF:0 type="stream" channelId="322" group="ANIMADOS", NICK JR
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35953
+#EXTINF:0 type="stream" channelId="2711" group="ANIMADOS", NICKTOONS
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35954
+#EXTINF:0 type="stream" channelId="2639" group="ANIMADOS", TOONCAST
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35977
+#EXTINF:0 type="stream" channelId="2502" group="CANALES DE PELICULAS", GOLDEN EDGE
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35935
+#EXTINF:0 type="stream" channelId="64" group="CANALES DE PELICULAS", CINE CANAL
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35902
+#EXTINF:0 type="stream" channelId="1330" group="CANALES DE PELICULAS", HBO
+http://185.134.22.150:8080/jokertv/streaming@2021/38135
+#EXTINF:0 type="stream" channelId="935" group="CANALES DE PELICULAS", HBO 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38083
+#EXTINF:0 type="stream" channelId="2585" group="CANALES DE PELICULAS", HBO PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/38128
+#EXTINF:0 type="stream" channelId="383" group="CANALES DE PELICULAS", SPACE
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35958
+#EXTINF:0 type="stream" channelId="1052" group="CANALES DE PELICULAS", TNT
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35975
+#EXTINF:0 type="stream" channelId="1052" group="CANALES DE PELICULAS", TNT
+http://185.134.22.150:8080/jokertv/streaming@2021/38105
+#EXTINF:0 type="stream" channelId="2625" group="CANALES DE PELICULAS", STUDIO UNIVERSAL
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35984
+#EXTINF:0 type="stream" channelId="4788" group="DEPORTES", WIN SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/38062
+#EXTINF:0 type="stream" channelId="4788" group="DEPORTES", WINS PORTS
+http://31.14.41.118:8080/blacktop/k7S96HKftq/36001
+#EXTINF:0 type="stream" channelId="2540" group="DEPORTES", ESPN
+http://185.134.22.150:8080/jokertv/streaming@2021/60474
+#EXTINF:0 type="stream" channelId="2540" group="DEPORTES", ESPN
+http://185.134.22.150:8080/jokertv/streaming@2021/62455
+#EXTINF:0 type="stream" channelId="344" group="DEPORTES", ESPN 2
+http://185.134.22.150:8080/jokertv/streaming@2021/62458
+#EXTINF:0 type="stream" channelId="344" group="DEPORTES", ESPN 2
+http://185.134.22.150:8080/jokertv/streaming@2021/62459
+#EXTINF:0 type="stream" channelId="355" group="DEPORTES", ESPN 3
+http://185.134.22.150:8080/jokertv/streaming@2021/38054
+#EXTINF:0 type="stream" channelId="355" group="DEPORTES", ESPN 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62463
+#EXTINF:0 type="stream" channelId="355" group="DEPORTES", ESPN 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62464
+#EXTINF:0 type="stream" channelId="355" group="DEPORTES", ESPN 3
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35921
+#EXTINF:0 type="stream" channelId="1263" group="DEPORTES", ESPN PREMIUM
+http://185.134.22.150:8080/jokertv/streaming@2021/62481
+#EXTINF:0 type="stream" channelId="1329" group="DEPORTES", FOX SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/62470
+#EXTINF:0 type="stream" channelId="1329" group="DEPORTES", FOX SPORTS 1
+http://185.134.22.150:8080/jokertv/streaming@2021/56660
+#EXTINF:0 type="stream" channelId="170" group="DEPORTES", FOX SPORTS 2
+http://185.134.22.150:8080/jokertv/streaming@2021/56662
+#EXTINF:0 type="stream" channelId="170" group="DEPORTES", FOX SPORTS 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38132
+#EXTINF:0 type="stream" channelId="170" group="DEPORTES", FOX SPORTS 2
+http://31.14.41.118:8080/blacktop/k7S96HKftq/35929
+#EXTINF:0 type="stream" channelId="180" group="DEPORTES", FOX SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62477
+#EXTINF:0 type="stream" channelId="180" group="DEPORTES", FOX SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62478
+#EXTINF:0 type="stream" channelId="180" group="DEPORTES", FOX SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62479
+#EXTINF:0 type="stream" channelId="180" group="DEPORTES", FOX SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62480
+#EXTINF:0 type="stream" channelId="4595" group="DEPORTES", FOX SOCCER PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/38137
+#EXTINF:0 type="stream" channelId="4668" group="DEPORTES", TNT SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/62536
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES", DIRECTV SPORTS
 http://185.134.22.150:8080/jokertv/streaming@2021/56654
-
-#EXTINF:-1,  ESTADIO TNT SPORTS group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/61186
-
-#EXTINF:-1,  ESTADIO TNT SPORTS group-title="DEPORTES"
-http://185.134.22.150:8080/jokertv/streaming@2021/56626
-
-
-
-#EXTINF:-1,  HTV group-title="MUSICALES"
+#EXTINF:0 type="stream" channelId="288" group="CANALES MUSICA", HTV
 http://185.134.22.150:8080/jokertv/streaming@2021/38126
-
-#EXTINF:-1,  MTV group-title="MUSICALES"
+#EXTINF:0 type="stream" channelId="289" group="CANALES MUSICA", MTV
 http://185.134.22.150:8080/jokertv/streaming@2021/38077
-
-#EXTINF:-1,  MTV HITS group-title="MUSICALES"
+#EXTINF:0 type="stream" channelId="289" group="CANALES MUSICA", MTV HITS
 http://185.134.22.150:8080/jokertv/streaming@2021/38073
-
-#EXTINF:-1,  MTV LIVE group-title="MUSICALES"
+#EXTINF:0 type="stream" channelId="237" group="CANALES MUSICA", MTV LIVE
 http://185.134.22.150:8080/jokertv/streaming@2021/38124
-
-#EXTINF:-1,  VH1 CLASSIC group-title="MUSICALES"
-http://185.134.22.150:8080/jokertv/streaming@2021/38121
-
-#EXTINF:-1,  MTV group-title="MUSICALES"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35946
-
-#EXTINF:-1,  VH1 group-title="MUSICALES"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35998
-
-#EXTINF:-1,  VH1 CLASSIC group-title="MUSICALES"
-http://31.14.41.118:8080/blacktop/k7S96HKftq/35999
-
-
-
-#EXTINF:-1,Perú | Peru Magico  group-title="INTERNACIONALES"
+#EXTINF:0 type="stream" channelId="-1" group="TV", Peru Magico
 http://31.14.41.118:8080/blacktop/k7S96HKftq/36029
-
-#EXTINF:-1,00 | TELEMUNDO INTERNACIONAL  group-title="INTERNACIONALES"
+#EXTINF:0 type="stream" channelId="1968" group="TV", TELEMUNDO INTERNACIONAL
 http://185.134.22.150:8080/jokertv/streaming@2021/46790
-
-#EXTINF:-1,00 | UNIMAS (EAST)  group-title="INTERNACIONALES"
-http://185.134.22.150:8080/jokertv/streaming@2021/46831
-
-#EXTINF:-1,00 | UNIMAS (WEST)  group-title="INTERNACIONALES"
+#EXTINF:0 type="stream" channelId="-1" group="TV", UNIMAS
 http://185.134.22.150:8080/jokertv/streaming@2021/46769
-
-#EXTINF:-1,00 | UNIVISION (EAST)  group-title="INTERNACIONALES"
+#EXTINF:0 type="stream" channelId="3209" group="TV", UNIVISION 
 http://185.134.22.150:8080/jokertv/streaming@2021/46751
-
-#EXTINF:-1,00 | UNIVISION (EAST)  group-title="INTERNACIONALES"
+#EXTINF:0 type="stream" channelId="3209" group="TV", UNIVISION
 http://185.134.22.150:8080/jokertv/streaming@2021/46847
-
-#EXTINF:-1,00 | UNIVISION NOTICIAS  group-title="INTERNACIONALES"
-http://185.134.22.150:8080/jokertv/streaming@2021/46851
-
-#EXTINF:-1,  Los Simpsons group-title="24/7"
+#EXTINF:0 type="stream" channelId="-1" group="24/7" background="https://megatelevisionhd.com/img/logo_canal/Los_Simpsons.png", Los Simpsons
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w421680223.m3u8
+
