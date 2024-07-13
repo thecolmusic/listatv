@@ -1,6 +1,4 @@
 #EXTM3U
-
-#EXTM3U
 #EXTINF:0 type="video" channelId="-1", GARFIELD
 https://delivery-node-ftjnnuqdzf8e5emc.voe-network.net/engine/hls2-c/01/11718/hwjhhlgjcrqp_,n,.urlset/master.m3u8?t=8lCFHGzp9sjOdNlhR4USqUd5weg3ePujT2SWpCyKx-Q&s=1720907926&e=14400&f=58595472&node=delivery-node-sxww6jtwd3wsyltc.voe-network.net&i=201.233&sp=2500&asn=13489
 
